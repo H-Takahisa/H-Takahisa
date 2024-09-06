@@ -3,6 +3,9 @@
   I'm a Japanese student studying informatics.<br>
   I am interested in deep learning among machine learning.
 </p>
+<h3>Languages I have dealt with.</h3>
+- Python
+- PHP
 <!---
 -  I’m currently learning ...
 -  I’m looking to collaborate on ...
