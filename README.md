@@ -1,12 +1,14 @@
-<h2>Hi, I’m @H-Takahisa.</h2>
+>
 <p>
   I'm a Japanese student studying informatics.<br>
   I am interested in deep learning among machine learning.
 </p>
-<h3>Languages I have dealt with.</h3>
-- Python
-- PHP
-<!---
+<h3>Languages I have dealt with:</h3>
+<p>
+  -  Python<br>
+  -  PHP
+<p>
+  <!---
 -  I’m currently learning ...
 -  I’m looking to collaborate on ...
 -  How to reach me ...
