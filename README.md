@@ -1,10 +1,11 @@
-<h2>Hi, I’m @H-Takahisa.</h2>
+<h2>Hi, I’m H-Takahisa.</h2>
 <p>
   I'm a Japanese student studying informatics.<br>
   I am interested in deep learning among machine learning.
 </p>
-<h3>Languages I have dealt with:</h3>
+<h3>Languages I have dealt with</h3>
 <p>
+  -  C<br>
   -  Python<br>
   -  PHP
 <p>
@@ -14,7 +15,7 @@
 -  How to reach me ...
 -  Pronouns: ...
 --->
-<h3>Fun fact:</h3>
+<h3>Fun fact</h3>
 <p>I'm nocturnal.<p>
 
 <!---
